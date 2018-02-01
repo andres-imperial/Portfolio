@@ -5,3 +5,6 @@ A repo to isolate some of my favorite projects
 
 ### [Secure Chat](https://github.com/andres-imperial/Cryptography/tree/master/Secure_Chat)
 
+### [Ray Tracer](https://github.com/andres-imperial/Ray_Tracer)
+
+
